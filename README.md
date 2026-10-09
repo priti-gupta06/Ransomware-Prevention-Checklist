@@ -29,13 +29,10 @@ Ransomware is malware that locks or encrypts files and demands a ransom to resto
 ## Interview Questions
 
 What is ransomware ?
-Malware that encrypts or blocks access to data and demands a ransom.
 
 Why are backups important ?  
-They allow organizations to recover data after an attack.
 
 What is least privilege ?
-Giving users only the minimum permissions required for their work.
 
 ## conclusion
 ackups + Patching + MFA + Least Privilege = Stronger Ransomware Protection
